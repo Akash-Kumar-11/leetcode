@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akash-Kumar-11/leetcode/tree/master/0050-powx-n) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash-Kumar-11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Akash-Kumar-11/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -53,4 +57,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
