@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Kumar-11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akash-Kumar-11/leetcode/tree/master/0006-zigzag-conversion) |
+| [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
