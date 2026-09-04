@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Akash-Kumar-11/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Kumar-11/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0877-stone-game) |
@@ -254,5 +256,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
