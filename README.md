@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Kumar-11/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1140-stone-game-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1406-stone-game-iii) |
@@ -258,4 +260,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
