@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Akash-Kumar-11/leetcode/tree/master/0006-zigzag-conversion) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Kumar-11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash-Kumar-11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1406-stone-game-iii) |
@@ -167,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Kumar-11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Kumar-11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Akash-Kumar-11/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
