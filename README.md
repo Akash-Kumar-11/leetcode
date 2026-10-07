@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akash-Kumar-11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akash-Kumar-11/leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/Akash-Kumar-11/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
