@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Akash-Kumar-11/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
