@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/Akash-Kumar-11/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Akash-Kumar-11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Akash-Kumar-11/leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Akash-Kumar-11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
