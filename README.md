@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Kumar-11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Akash-Kumar-11/leetcode/tree/master/0027-remove-element) |
+| [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash-Kumar-11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Akash-Kumar-11/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Kumar-11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-Kumar-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash-Kumar-11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash-Kumar-11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
 |  |
