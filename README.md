@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash-Kumar-11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Kumar-11/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash-Kumar-11/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Akash-Kumar-11/leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0525-contiguous-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Kumar-11/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
