@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Akash-Kumar-11/leetcode/tree/master/1260-shift-2d-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Akash-Kumar-11/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akash-Kumar-11/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akash-Kumar-11/leetcode/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Akash-Kumar-11/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Kumar-11/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
