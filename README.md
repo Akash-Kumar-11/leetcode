@@ -294,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0112-path-sum) |
 | [3310-remove-methods-from-project](https://github.com/Akash-Kumar-11/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/Akash-Kumar-11/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0143-reorder-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
