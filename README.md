@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akash-Kumar-11/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash-Kumar-11/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash-Kumar-11/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash-Kumar-11/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Akash-Kumar-11/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Akash-Kumar-11/leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akash-Kumar-11/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
