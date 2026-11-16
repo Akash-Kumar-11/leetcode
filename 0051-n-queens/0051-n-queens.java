@@ -1,70 +1,69 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
-    public boolean isSafe(int row, int col, char[][] board) {
-        for (int j = 0; j < col; j++) {
-            if (board[row][j] == 'Q') {
+    static boolean isSafeToPlace(int rowIndex, int colIndex ,int n , char[][] board)
+    {
+        int row = rowIndex;
+        int col = colIndex;
+        while(col >= 0){
+            if(board[row][col] == 'Q'){
                 return false;
             }
+            col--;
         }
-        
-        int r = row;
-        for (int c = col; c >= 0 && r >= 0; c--, r--) {
-            if (board[r][c] == 'Q') {
+
+        row = rowIndex;
+        col = colIndex;
+
+        while(row >= 0 && col >= 0){
+            if(board[row][col] == 'Q'){
                 return false;
             }
+            row--;
+            col--;
         }
-        
-        r = row;
-        for (int c = col; c >= 0 && r < board.length; c--, r++) {
-            if (board[r][c] == 'Q') {
-                return false;
-            }
+
+        row = rowIndex;
+        col = colIndex;
+
+        while(row < n && col >= 0){
+            if(board[row][col] == 'Q') return false;
+            row++;
+            col--;
         }
-        
+
         return true;
     }
-
-    public void saveBoard(char[][] board, List<List<String>> allBoards) {
-        List<String> newboard = new ArrayList<>();
-        for (int i = 0; i < board.length; i++) {
-            String row = "";
-            for (int j = 0; j < board[0].length; j++) {
-                if (board[i][j] == 'Q') {
-                    row += 'Q';
-                } else {
-                    row += '.';
-                }
+    static void solve(char[][] board, int n , int colIndex , List<List<String>> ans)
+    {
+        //base case
+        if(colIndex >= n){
+            List<String> temp = new ArrayList<>();
+            for(int i = 0; i < n ; i++){
+                temp.add(new String(board[i]));
             }
-            newboard.add(row);
-        }
-        allBoards.add(newboard);
-    }
-
-    public void helper(char[][] board, List<List<String>> allBoards, int col) {
-        if (col == board.length) {
-            saveBoard(board, allBoards);
+            ans.add(temp);
             return;
         }
-        for (int row = 0; row < board.length; row++) {
-            if (isSafe(row, col, board)) {
-                board[row][col] = 'Q';
-                helper(board, allBoards, col + 1);
-                board[row][col] = '.';
+
+        for(int rowIndex = 0 ; rowIndex < n ; rowIndex++){
+            if(isSafeToPlace(rowIndex ,colIndex, n , board)){
+                board[rowIndex][colIndex] = 'Q';
+                solve(board, n , colIndex+1 , ans);
+                board[rowIndex][colIndex] = '.';
             }
         }
     }
-
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> allBoards = new ArrayList<>();
-        char[][] board = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                board[i][j] = '.';
-            }
-        }
-        helper(board, allBoards, 0);
-        return allBoards;
+       char [][] board = new char[n][n];
+       for(int i = 0; i < n ; i++){
+            Arrays.fill(board[i] , '.');
+       }
+
+       int colIndex = 0;
+
+       List<List<String>> ans = new ArrayList<>();
+
+       solve(board ,n , colIndex ,ans);
+
+       return ans;
     }
 }
