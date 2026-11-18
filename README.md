@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Akash-Kumar-11/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0525-contiguous-array](https://github.com/Akash-Kumar-11/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash-Kumar-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [1260-shift-2d-grid](https://github.com/Akash-Kumar-11/leetcode/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash-Kumar-11/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akash-Kumar-11/leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 ## Depth-First Search
 |  |
@@ -379,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0112-path-sum) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
