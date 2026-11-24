@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akash-Kumar-11/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Akash-Kumar-11/leetcode/tree/master/0078-subsets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0047-permutations-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akash-Kumar-11/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akash-Kumar-11/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Akash-Kumar-11/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0090-subsets-ii) |
