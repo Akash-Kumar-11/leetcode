@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akash-Kumar-11/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Akash-Kumar-11/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Akash-Kumar-11/leetcode/tree/master/0078-subsets) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Akash-Kumar-11/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akash-Kumar-11/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akash-Kumar-11/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akash-Kumar-11/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Akash-Kumar-11/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash-Kumar-11/leetcode/tree/master/0090-subsets-ii) |
