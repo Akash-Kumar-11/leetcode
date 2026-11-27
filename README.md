@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash-Kumar-11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Akash-Kumar-11/leetcode/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Akash-Kumar-11/leetcode/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash-Kumar-11/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Akash-Kumar-11/leetcode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
